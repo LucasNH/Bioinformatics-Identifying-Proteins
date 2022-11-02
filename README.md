@@ -1,5 +1,5 @@
 # Bioinformatics-Identifying-Proteins
-This program was authored by Lucas Noritomi-Hartwig, November 2, 2022.
+This program was authored by Lucas Noritomi-Hartwig, November 2, 2022, to be used as a helpful tool for those studying bioinformatics, or for those who are interested in the field.
 
 The program will identify possible proteins in DNA sequences by flagging start and stop codons with "*" and "**", respectively.
 
